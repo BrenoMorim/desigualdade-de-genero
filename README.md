@@ -1,0 +1,1 @@
+Projeto que utiliza dados da PNAD 2015 do IBGE para comprovar a desigualdade de gênero no Brasil, o projeto foi criado para ser usado em uma apresentação escolar. Os treinamentos de estatística com Python da Alura serviram como base no desenvolvimento deste. A parte visual da apresentação foi criado com a ferramenta Figma.

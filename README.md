@@ -21,6 +21,32 @@ Foram utilizados dados da Pesquisa Nacional de Amostra a Domícilio de 2015 do I
 
 De acordo com a PNAD de 2015, aproximadamente 69,3% das famílias têm um homem como provedor principal, enquanto 30,7% têm uma mulher como provedora. O que é muito discrepante da proporção populacional entre homens e mulheres, além de que a maioria das famílias com uma mulher como chefe, são assim por conta da ausência da figura paterna.
 
+## Analisando a renda
+
+### Renda dos homens
+
+![Histograma mostrando a renda dos homens chefes de família](./graficos/renda_homens.png)
+
+### Renda das mulheres
+
+![Histograma mostrando a renda das mulheres chefes de família](./graficos/renda_mulheres.png)
+
+Podemos ver que em ambos os casos, a maioria das pessoas recebe apenas um salário mínimo, que na época era 788 reais. Porém, podemos perceber que existe uma quantidade bem maior de homens que ganham salários maiores, como 2000, 4000, 5000, 6000 e 10000 do que mulheres. Além disso, há mais mulheres que ganham salários menores do que um salário mínimo em comparação com os homens.
+
+## Analisando o estudo
+
+### Estudo dos homens
+
+![Histograma mostrando o estudo dos homens chefes de família](./graficos/estudo_homens.png)
+
+### Estudo das mulheres
+
+![Histograma mostrando o estudo das mulheres chefes de família](./graficos/estudo_mulheres.png)
+
+Podemos ver que há uma maior concetração em 11 anos de estudo, que corresponde à conclusão do ensino médio. Nesses gráficos podemos perceber uma contradição com os gráficos anteriores sobre renda, porque há uma maior quantidade de homens que não concluíram o ensino médio e até que não tem nenhum estudo se compararmos com as mulheres. Notamos que as mulheres chefes de família geralmente possuem mais estudo, quase 20% possuem ensino superior e mais de 30% finalizaram somente o ensino médio, ao contrário dos homens, pouco mais de 10% dos homens chefes de família possuem ensino superior.
+
+#### Podemos então chegar à conclusão de que mesmo estudando mais, as mulheres acabam tendo uma renda menor no geral.
+
 ### Renda por etnia e gênero
 
 ![Box plot mostrando a renda dos chefes de família por etnia e gênero](./graficos/boxplot_renda.png)

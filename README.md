@@ -4,16 +4,24 @@
 
 Análise com base na PNAD de 2015, com o conteúdo aprendido nos cursos de estatística com python da Alura. O objetivo do projeto é mostrar a desigualdade no Brasil.
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Desigualdade de Gênero no Brasil**
-| :label: Tecnologias | Python, Jupyter Notebook
+| :placard: Vitrine.Dev |                                      |
+| --------------------  | ------------------------------------ | 
+| :sparkles: Nome       | **Desigualdade de Gênero no Brasil** |
+| :label: Tecnologias   | Python, Jupyter Notebook, Power BI   |
 
 ![Gráfico mostrando a distribuição de renda entre as mulheres chefes de família](https://github.com/BrenoMorim/desigualdade-de-genero/blob/main/imagem-do-projeto.png?raw=true#vitrinedev)
 
 ## Detalhes do Projeto
 
-Foram utilizados dados da Pesquisa Nacional de Amostra a Domícilio de 2015 do IBGE para demonstrar a desigualdade de gênero no Brasil. Os treinamentos de estatística com Python da Alura serviram como base no desenvolvimento, assim como os dados da PNAD já tratados. Foram analisados como a distribuição de renda e nível de estudo variam dependendo do gênero, fazendo testes estatísticos, regressões e análises gráficas com boxplots e histogramas.O objetivo dessa análise foi simplesmente demonstrar de forma estatística que a desigualdade existe, sem discutir o porquê dela existir ou como solucionar esse problema.
+Foram utilizados dados da Pesquisa Nacional de Amostra a Domícilio de 2015 do IBGE para demonstrar a desigualdade de gênero no Brasil. Os treinamentos de estatística com Python da Alura serviram como base no desenvolvimento, assim como os dados da PNAD já tratados. Foram analisados como a distribuição de renda e nível de estudo variam dependendo do gênero, fazendo testes estatísticos, regressões e análises gráficas com boxplots e histogramas. O objetivo dessa análise foi simplesmente demonstrar de forma estatística que a desigualdade existe, sem discutir o porquê dela existir ou como solucionar esse problema.
+
+## Páginas do Dashboard em Power BI
+
+![Página contendo a contagem de homens x mulheres chefes de família](./paginas-dashboard/contagem.png)
+
+![Página contendo insights sobre a renda contando a diferença entre homens e mulheres](./paginas-dashboard/renda.png)
+
+![Página analisando os anos de estudo de acordo com gênero e sexo](./paginas-dashboard/estudo.png)
 
 ## Alguns gráficos e análises
 
